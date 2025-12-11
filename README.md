@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Nawaz Muztaba Subtitle: Cybersecurity Analyst | Malware Analysis & VAPT Specialist | CEH Aspirant<br>I am a final-year B.Tech CSE student specializing in Offensive Cybersecurity. With practical experience in Vulnerability Assessment & Penetration Testing (VAPT), I have secured real-world applications by identifying critical flaws like SQL Injection and XSS. My technical focus includes Malware Analysis, automating security workflows with Python, and Red Team operations. I am currently pursuing the CEH v12 certification to further sharpen my adversarial tradecraft.<br>
+Hi, I'm Nawaz Muztaba. Cybersecurity Analyst | Malware Analysis & VAPT Specialist | CEH Aspirant<br>I am a final-year B.Tech CSE student specializing in Offensive Cybersecurity. With practical experience in Vulnerability Assessment & Penetration Testing (VAPT), I have secured real-world applications by identifying critical flaws like SQL Injection and XSS. My technical focus includes Malware Analysis, automating security workflows with Python, and Red Team operations. I am currently pursuing the CEH v12 certification to further sharpen my adversarial tradecraft.<br>
 
 
 ## 🌐 Socials:
